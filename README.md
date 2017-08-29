@@ -1,2 +1,2 @@
 # demo
-Repository for demonstrating and testing git
+This is a bogus repository that is used for testing and demonstrating git and github functionality
