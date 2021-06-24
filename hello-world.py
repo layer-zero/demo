@@ -3,5 +3,3 @@
 """This script prints a Hello World message"""
 
 print('Hello World!')
-
-print 'This will break the code'
