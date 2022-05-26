@@ -3,4 +3,6 @@
 """This script prints a Hello World message"""
 
 print('Hello World!')
-# raise('This program is broken')
+
+# Let's raise some error:
+raise('Here I am, brain the size of a planet, and they tell me to raise an error...')
