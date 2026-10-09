@@ -1,0 +1,7 @@
+---
+vlans:
+  - id: 101
+    name: PRD-WEB
+  - id: 102
+    name: PRD-DB
+
