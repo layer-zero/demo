@@ -8,5 +8,7 @@ vlans:
     name: DEV-WEB
   - id: 202
     name: DEV-DB
+  - id: 300
+    name: STORAGE
   - id: 301
     name: VMOTION
