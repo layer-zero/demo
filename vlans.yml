@@ -6,3 +6,5 @@ vlans:
     name: PRD-DB
   - id: 201
     name: DEV-WEB
+  - id: 202
+    name: DEV-DB
